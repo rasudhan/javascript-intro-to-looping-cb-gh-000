@@ -9,6 +9,12 @@ function forLoop(array) {
   return array
 }
 
+funcion whileLoop(num) {
+  while(num>0){
+    console.log(--num)
+  }
+}
+
 var i = 0;
 
 function incrementVariable() {
